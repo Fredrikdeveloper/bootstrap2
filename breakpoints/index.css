@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} .card-body > h5 {
+  text-align: center;
+} .card-body > p {
+    text-align: center;
+} .card-img > img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+  
+} .card-img {
+    display: flex;
+    justify-content: center;
+} .button-menu-need2 {
+    display: flex;
+    justify-content: center;
+} .button-menu-need1 {
+    display: flex;
+    justify-content: flex-start;
+} .button-menu-need3 {
+    display: flex;
+    justify-content: flex-end;
+}
+  .card {
+    border: none !important;
+    width: 150px;
+} .card-body {
+    border: none;
+}  .container {
+    padding: 75px 0px;
+}
+.line-one {
+    border-bottom: 2px solid gainsboro ;
+    width: 100%;
+    
+}  
+ .section-menu-1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}  .section2-text {
+    padding-left: 100px;
+}
+.section2 {
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+  } 
+ .section-menu-1 > h1 > span {
+    color: gainsboro;
+} .section1-img > img {
+    width: 500px;
+    height: 500px;
+    
+} .footer-menu-text {
+    display: flex;
+    gap: 5px;
+    
+} .card-body-button-menu {
+    display: flex;
+    justify-content: center;
+} .stretched-link {
+    display: none;
+}
